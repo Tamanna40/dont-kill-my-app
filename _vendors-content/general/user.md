@@ -1,4 +1,4 @@
----
+tecno spark 20c
 manufacturer:
     - general
 ---
